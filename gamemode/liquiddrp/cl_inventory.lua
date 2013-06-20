@@ -1,0 +1,1 @@
+MsgN("Inventory CS loaded")
